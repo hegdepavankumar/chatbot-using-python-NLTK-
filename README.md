@@ -57,5 +57,5 @@ You can run the [chatbot.ipynb](https://github.com/parulnith/Building-a-Simple-C
 | [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
 ```
-
-```
+           Hey Everyone Please give a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forgot to fork the repo....
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Thank you~~~🙏😍~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
