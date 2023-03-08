@@ -50,7 +50,7 @@ You can run the [chatbot.ipynb](https://github.com/parulnith/Building-a-Simple-C
 
 
 
-## Creators [🔝](#Building-a-Simple-Chatbot-in-Python-using-NLTK-master)
+## Creator [🔝](#Building-a-Simple-Chatbot-in-Python-using-NLTK-master)
 
 (https://github.com/hegdepavankumar). This Project is Created by :-
 
