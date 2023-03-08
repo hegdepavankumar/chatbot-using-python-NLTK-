@@ -29,6 +29,7 @@ with open('chatbot.txt','r', encoding='utf8', errors ='ignore') as fin:
 sent_tokens = nltk.sent_tokenize(raw)# converts to list of sentences 
 word_tokens = nltk.word_tokenize(raw)# converts to list of words
 
+
 # Preprocessing
 lemmer = WordNetLemmatizer()
 def LemTokens(tokens):
