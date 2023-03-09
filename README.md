@@ -21,7 +21,7 @@ The idea of this project was not to create some SOTA chatbot with exceptional co
 
 
 
-## Pre-requisites(Kindely Follow Instructions)
+## Pre-requisites(Kindely Follow 👇 Instructions)
 **NLTK(Natural Language Toolkit)**
 
 [Natural Language Processing with Python](http://www.nltk.org/book/) provides a practical introduction to programming for language processing.
